@@ -19,3 +19,4 @@ List of the most used git commands:
 | git checkout |             Switches from branches and commits             |
 |  git branch  | List, create and delete branches in the current repository |
 |  git merge   |   Merge the commits of a specific branch to the current    |
+|   git diff   |                 Show the files differences                 |
